@@ -1,0 +1,24 @@
+{
+  "name": "jest-rxjs-asynchronouse",
+  "version": "1.0.0",
+  "description": "Present asynchronous testing in rxjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Katarzyna Ziomek-Zdanowicz",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.11.4",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/preset-typescript": "^7.10.4",
+    "@types/jest": "^26.0.10",
+    "babel-jest": "^26.3.0",
+    "jest": "^26.4.2",
+    "rxjs": "^6.6.2",
+    "typescript": "^4.0.2",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
